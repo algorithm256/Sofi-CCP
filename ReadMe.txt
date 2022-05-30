@@ -1,7 +1,11 @@
 Program for CCP communication with ECU. Based on peak can CCP-API 
 
-main features:
-- downoload parameters
+Implemented:
+
+- download parameters
 - upload parameters
+
+TODO:
+
 - program memory
 - erase memory
